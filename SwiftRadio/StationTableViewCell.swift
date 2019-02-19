@@ -1,6 +1,6 @@
 //
 //  StationTableViewCell.swift
-//  Swift Radio
+//  Nepali Bhajan Radio
 //
 //  Created by Matthew Fecher on 4/4/15.
 //  Copyright (c) 2015 MatthewFecher.com. All rights reserved.

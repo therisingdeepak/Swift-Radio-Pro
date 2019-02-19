@@ -1,6 +1,6 @@
 //
 //  UIImageView+AlbumArtDownload.swift
-//  Swift Radio
+//  Nepali Bhajan Radio
 //
 //  Created by Matthew Fecher on 3/31/15.
 //  Copyright (c) 2015 MatthewFecher.com. All rights reserved.

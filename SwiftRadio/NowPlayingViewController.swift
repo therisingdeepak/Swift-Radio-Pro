@@ -1,6 +1,6 @@
 //
 //  NowPlayingViewController.swift
-//  Swift Radio
+//  Nepali Bhajan Radio
 //
 //  Created by Matthew Fecher on 7/22/15.
 //  Copyright (c) 2015 MatthewFecher.com. All rights reserved.
@@ -321,7 +321,7 @@ class NowPlayingViewController: UIViewController {
     }
     
     @IBAction func shareButtonPressed(_ sender: UIButton) {
-        let songToShare = "I'm listening to \(currentTrack.title) on \(currentStation.name) via Swift Radio Pro"
+        let songToShare = "I'm listening to \(currentTrack.title) on \(currentStation.name) via Nepali Bhajan Radio Pro"
         let activityViewController = UIActivityViewController(activityItems: [songToShare, currentTrack.artworkImage!], applicationActivities: nil)
         activityViewController.popoverPresentationController?.sourceRect = CGRect(x: view.center.x, y: view.center.y, width: 0, height: 0)
         activityViewController.popoverPresentationController?.sourceView = view

@@ -1,6 +1,6 @@
 //
 //  StationsViewController.swift
-//  Swift Radio
+//  Nepali Bhajan Radio
 //
 //  Created by Matthew Fecher on 7/19/15.
 //  Copyright (c) 2015 MatthewFecher.com. All rights reserved.
@@ -93,7 +93,7 @@ class StationsViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        title = "Swift Radio"
+        title = "Nepali Bhajan Radio"
     }
 
     //*****************************************************************

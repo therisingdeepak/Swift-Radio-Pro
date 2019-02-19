@@ -1,6 +1,6 @@
 //
 //  AboutViewController.swift
-//  Swift Radio
+//  Nepali Bhajan Radio
 //
 //  Created by Matthew Fecher on 7/9/15.
 //  Copyright (c) 2015 MatthewFecher.com. All rights reserved.
@@ -27,7 +27,7 @@ class AboutViewController: UIViewController {
         
         // Use your own email address & subject
         let receipients = ["matthew.fecher@gmail.com"]
-        let subject = "From Swift Radio App"
+        let subject = "From Nepali Bhajan Radio App"
         let messageBody = ""
         
         let configuredMailComposeViewController = configureMailComposeViewController(recepients: receipients, subject: subject, messageBody: messageBody)
